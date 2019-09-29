@@ -7,7 +7,12 @@ Bei Nutzung der Platinen freue ich mich über Feedback und kleine Aufmerksamkeit
 # PCB
 ## HB-RF-USB
 Eine Platine um die Homematic Funkmodule HM-MOD-RPI-PCB und RF-RPI-MOD per USB anschließen zu können.
-![Layout](HB-RF-USB/HB-RF-USB.png)
+![Layout](HB-RF-USB
+
+
+
+
+png)
 [Schaltplan](HB-RF-USB/HB-RF-USB.pdf)
 
 ### Benötigte Bauteile:
